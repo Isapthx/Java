@@ -1,4 +1,0 @@
-# Java Beans
-
-- Variáveis
-
